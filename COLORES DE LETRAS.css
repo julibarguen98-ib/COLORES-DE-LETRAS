@@ -1,0 +1,27 @@
+html{box-sizing: border-box; margin: 0; padding: 0;}
+body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #ffffff; color: #1a202c; padding: 40px 20px;}
+.header {text-align: center; margin-bottom: 40px;}
+.header h1 {font-size: 32px; font-weight: 800; color: #0f172a; letter-spacing: 2px; text-transform: uppercase;}
+.grid-container{display: grid; width: 100%; max-width: 1000px; margin: 0 auto; grid-template-columns: repeat(4, 1fr); gap: 15px;}
+.color-item {display: inline-block; width: 23%; margin: 1%; vertical-align: top; padding: 10px;}
+.color-item h2 {font-size: 22px; font-weight: 700; margin-bottom: 6px;}
+.cool-gray h2 {color: #475569;}
+.cyan h2 {color: #0891b2;}
+.sky h2 {color: #0ea5e9;}
+.fuchsia h2 {color: #a78bfa;}
+.purple h2 {color: #8b5cf6;}
+.warm-gray h2 {color: #6b7280;}
+.red h2 {color: #dc2626;}
+.orange h2 {color: #ea580c;}
+.pink h2 {color: #ec4899;}
+.violet h2 {color: #7c3aed;}
+.amber h2 {color: #f59e0b;}
+.yellow h2 {color: #eab308;}
+.lime h2 {color: #84cc16;}
+.rose h2 {color: #f43f5e;}
+.indigo h2 {color: #4f46e5;}
+.emerald h2 {color: #10b981;}
+.green h2 {color: #16a34a;}
+.teal h2 {color: #14b8a6;}
+.blue-gray h2 {color: #64748b;}
+.blue h2 {color: #3b82f6;}
